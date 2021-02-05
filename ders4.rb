@@ -9,6 +9,8 @@ when String
     p "değer string 'dır."
 when Integer
     p "değer integer 'dır."
+when Float
+    p "değer float 'tır."
 end
 
 b = "Merhaba benim adım sevim"
