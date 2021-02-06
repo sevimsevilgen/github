@@ -21,6 +21,8 @@ elsif a == 4
     puts "a 4 ye eşittir. "
 elsif a == 5
     puts "a 5 ye eşittir. "
+elsif a == 10
+    puts "a 10 a eşittir."
 else 
     puts "Girdiğiniz sayı tanımsız!"
 end
